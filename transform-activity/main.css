@@ -10,10 +10,14 @@ main {
   margin: auto;
   display: flex;
   align-items: center;
+  transform: rotateZ(-30deg);
+  scale: 100%;
+
 }
 
 main > div {
   width: 40%;
   margin: auto;
   padding: 10%;
+ 
 }
